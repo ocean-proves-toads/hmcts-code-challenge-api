@@ -4,9 +4,11 @@ This is my .NET Web Api for the HMCTS Code Challenge Task Management App
 
 ## Set up
 
-Clone the Repository
-change directory to `TasksApi`
-run `dotnet run` 
+You need to have .NET 9.0 installed
+
+1. Clone the Repository
+2. Change directory to `hmcts-code-challenge-api\TasksApi\`
+3. Type `dotnet run` to run it 
 
 ### Documentation
 

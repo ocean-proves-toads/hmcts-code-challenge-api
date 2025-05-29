@@ -44,3 +44,9 @@ taskDescription:	string, maxLength: 2000, nullable: true\
 taskStatus:  	string minLength: 1, required \
 taskDueDate:	string($date), required (eg. 2025-05-25)
 
+## Testing
+
+There are limited tests due to running out of time, to run them:
+
+1. Change Directory to `TasksApi.Tests`
+2. Run `dotnet test` 

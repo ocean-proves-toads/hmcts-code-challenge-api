@@ -37,10 +37,10 @@ Deleted the task with id
 ## Task Schema
 
 MojTask\
-taskId	        integer($int32)\
-taskDescription	string, maxLength: 2000, nullable: true\
-taskStatus  	string minLength: 1, required \
-taskDueDate*	string($date), required (eg. 2025-05-25)\
+taskId:	        integer($int32)\
+taskDescription:	string, maxLength: 2000, nullable: true\
+taskStatus:  	string minLength: 1, required \
+taskDueDate:	string($date), required (eg. 2025-05-25)\
 
 
 
